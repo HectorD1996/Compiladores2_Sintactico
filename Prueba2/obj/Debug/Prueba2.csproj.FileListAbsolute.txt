@@ -1,0 +1,12 @@
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\obj\Debug\Prueba2.csprojResolveAssemblyReference.cache
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\hecto\Desktop\GitHub\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\bin\Debug\Prueba2.exe.config
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\obj\Debug\Prueba2.exe
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\obj\Debug\Prueba2.pdb
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\hecto\Desktop\Universidad\Universidad\Compis\Proyecto\Prueba2\Prueba2\obj\Debug\Prueba2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+*** Error line 1 *** Unrecognized char: #
+define line 1 cols 7 is T_Identifier
+PROCEDURE line 1 cols 17 is T_Identifier
+void line 3 cols 0 is T_void
+"esto esta bien" line 4 cols 0 is QUOTED-STRING
+*** Error line 6 string sin terminar
+*** Error line 6 *** Unrecognized char: #
+define line 6 cols 7 is T_Identifier
+BEGIN line 6 cols 13 is T_Identifier
+{ line 7 cols 0 is {
+*** Error line 7 *** Unrecognized char: #
+define line 7 cols 7 is T_Identifier
+END line 7 cols 11 is T_Identifier
+} line 9 cols 0 is }
+*** Error line 9 *** Unrecognized char: #
+define line 9 cols 7 is T_Identifier
+BINKY line 9 cols 13 is T_Identifier
+2 line 9 cols 15 is T_IntConstant
++ line 9 cols 17 is +
+2 line 9 cols 19 is T_IntConstant
+* line 9 cols 21 is *
+10 line 12 cols 0 is T_IntConstant
+*** Error line 12 *** Unrecognized char: #
+PROCEDURE line 12 cols 10 is T_Identifier
+main line 12 cols 15 is T_Identifier
+() line 13 cols 0 is ()
+*** Error line 14 *** Unrecognized char: #
+BEGIN line 15 cols 0 is T_Identifier
+Print line 15 cols 9 is T_Identifier
+( line 15 cols 10 is (
+*** Error line 15 *** Unrecognized char: #
+BINKY line 15 cols 16 is T_Identifier
+) line 15 cols 17 is )
+; line 16 cols 0 is ;
+*** Error line 17 *** Unrecognized char: #
+END line 19 cols 0 is T_Identifier
+
